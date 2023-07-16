@@ -1,2 +1,18 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+
+</script>
+
+<p>XLO SPECS</p>
+<p>Read the typescript files.</p>
+
+<style>
+    :global(*) {
+        font-family: "consolas", monospace;
+        margin: 0;
+        padding: 0;
+    }
+    :global(body) {
+        margin: 10px;
+        padding: 10px;
+    }
+</style>
