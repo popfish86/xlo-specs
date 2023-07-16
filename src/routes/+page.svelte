@@ -8,6 +8,7 @@
 <p>add fourth line</p>
 <p>add fith line</p>
 <p>last line</p>
+<p>extended line</p>
 
 <style>
     :global(*) {
